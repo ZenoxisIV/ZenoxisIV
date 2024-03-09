@@ -1,16 +1,25 @@
-## こんにちは！アイヴァンです。🚀
+## こんにちは！アイヴァンです。
 <details>
 <summary>🔸 See English translation 🔸</summary>
 Hi! I'm Ivan.
 </details>
 
-## About Me 🔎
-Still working on this... need to be in a good mood first. 😴
+## About Me
+I'm a third-year Computer Science student leaning on **backend development** and **server-scripting**. When I'm idle, you'll often find me watching anime, reading manga, and playing video games. For games, I am mostly fond of **MMORPGs**, **world-building**, and the intricacies of **automation** (*\*cries in spaghetti setups\**), but I also play FPS and BR from time to time. 
 
-## Tech Stack 💻
+Through these interests, I have cultivated a deep appreciation for technology as a field of discipline and how a virtual world can exceed our own imaginations.
+
+<div align="center">
+    <figure>
+        <img src="animation/factorio.gif" alt="Factorio">
+        <figcaption>"Let's keep it clean, shall we?"</figcaption>
+    </figure>
+</div>
+
+## 💻 Tech Stack 
 <details>
 <summary>🔹 Show / Hide 🔹</summary>
-<div align="left-aligned">
+<div>
     <h3>Main Programming Languages</h3>
     <div>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
