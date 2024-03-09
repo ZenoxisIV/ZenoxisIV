@@ -5,7 +5,7 @@ Hi! I'm Ivan.
 </details>
 
 ## About Me
-I'm a third-year Computer Science student leaning on **backend development** and **server-scripting**. When I'm idle, you'll often find me watching anime, reading manga, and playing video games. For games, I am mostly fond of **MMORPGs**, **world-building**, and the intricacies of **automation** (*\*cries in spaghetti setups\**), but I also play FPS and BR from time to time. 
+I'm a third-year Computer Science student leaning on **backend development** and **server-side scripting**. When I'm idle, you'll often find me watching anime, reading manga, and playing video games. For games, I am mostly fond of **MMORPGs**, **world-building**, and the intricacies of **automation** (*\*cries in spaghetti setups\**), but I also play FPS and BR from time to time. 
 
 Through these interests, I have cultivated a deep appreciation for technology as a field of discipline and how a virtual world can exceed our own imaginations.
 
