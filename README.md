@@ -10,10 +10,11 @@ I'm a third-year Computer Science student leaning on **backend development** and
 Through these interests, I have cultivated a deep appreciation for technology as a field of discipline and how a virtual world can exceed our own imaginations.
 
 <div align="center">
-    <figure>
-        <img src="animation/factorio.gif" alt="Factorio">
-        <figcaption>"Let's keep it clean, shall we?"</figcaption>
-    </figure>
+    <img src="animation/factorio.gif" alt="Factorio">
+</div>
+
+<div align="center">
+    "Let's keep it clean, shall we?"
 </div>
 
 ## 💻 Tech Stack 
