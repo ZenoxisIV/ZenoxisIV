@@ -1,13 +1,13 @@
-## こんにちは！アイヴァンです。
+## こんにちは！ アイヴァンです。
 <details>
 <summary>🔸 See English translation 🔸</summary>
 Hi! I'm Ivan.
 </details>
 
 ## About Me
-I'm a third-year Computer Science student leaning on **backend development** and **server-side scripting**. When I'm idle, you'll often find me watching anime, reading manga, and playing video games. For games, I am mostly fond of **MMORPGs**, **world-building**, and the intricacies of **automation** (*\*cries in spaghetti setups\**), but I also play FPS and BR from time to time. 
+I'm a third-year Computer Science student leaning on **backend development** and **server-side scripting**. When I'm idle, I often watch anime, read manga, and play video games. For games, I am mostly fond of **MMORPGs**, **world-building**, and the intricacies of **automation** (*\*cries in spaghetti setups\**), but I also play FPS and BR from time to time. 
 
-Through these interests, I have cultivated a deep appreciation for technology as a field of discipline and how a virtual world can exceed our own imaginations.
+Through these interests, I have cultivated a deep appreciation for technology as a field of discipline and how a virtual world can exceed our imaginations.
 
 <div align="center">
     <img src="animation/factorio.gif" alt="Factorio">
@@ -38,6 +38,7 @@ Through these interests, I have cultivated a deep appreciation for technology as
     <div>
         <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
         <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
         <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
     </div>
     <h3>Servers/Databases</h3>
@@ -76,21 +77,4 @@ Through these interests, I have cultivated a deep appreciation for technology as
     </div>
 </div>
 </details>
-
-
-
-<!--
-**ZenoxisIV/ZenoxisIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
