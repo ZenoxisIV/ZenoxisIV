@@ -5,9 +5,9 @@ Hi! I'm Ivan.
 </details>
 
 ## About Me
-I'm a fourth-year Computer Science student in UP Diliman with a strong interest in **backend development**, including everything from designing and building APIs, managing databases, optimizing server-side logic, and implementing authentication systems, while ensuring scalability, security, and performance. Recently, I've also been exploring frontend development to diversify my knowledge in web development and create more cohesive, well-rounded projects.
+I'm a fourth-year Computer Science student in [UP Diliman](https://upd.edu.ph/) with a strong interest in **backend development**, including designing and building APIs, managing databases, optimizing server-side logic, and implementing authentication systems, while ensuring scalability, security, and performance. Recently, I've also been exploring frontend development to diversify my knowledge in web development and create more cohesive, well-rounded projects.
 
-When I'm not coding, I'm usually watching anime, reading manga, or gaming. I'm really into MMORPGs, world-building, and setting up automation systems in <a href="https://www.minecraft.net/en-us" rel="noopener" target="_blank">Minecraft<a>, <a href="https://terraria.org/" rel="noopener" target="_blank">Terraria</a>, and <a href="https://www.factorio.com/" rel="noopener" target="_blank">Factorio</a> *(\*cries in spaghetti configurations\*)*. You'll also catch me playing FPS games like <a href="https://playvalorant.com/en-sg/" rel="noopener" target="_blank">Valorant</a> from time to time.
+When I'm not coding, I'm usually watching anime, reading manga, or gaming. I'm really into MMORPGs, world-building, and setting up automation systems in [Minecraft](https://www.minecraft.net/en-us), [Terraria](https://terraria.org/), and [Factorio](https://www.factorio.com/) *(\*cries in spaghetti configurations\*)*. You'll also catch me playing FPS games like [Valorant](https://playvalorant.com/en-sg/) from time to time.
 
 <div align="center">
     <img src="animation/factorio.gif" alt="Factorio">
@@ -16,9 +16,10 @@ When I'm not coding, I'm usually watching anime, reading manga, or gaming. I'm r
 <div align="center">
     "A small slice of the <i>Main Bus System</i> I built in <a href="https://www.factorio.com/" rel="noopener" target="_blank">Factorio</a>."
 </div>
+<br></br>
 
 In my downtime *(i.e., outside my geek/weeb bubble)*, I enjoy:
-- 🧩 **Casual Rubik's Cube solving**: I mainly use the <a href="https://www.speedcube.com.au/pages/cfop-3x3-rubiks-cube-algorithms" rel="noopener" target="_blank">CFOP</a> method for 3x3 and the <a href="https://www.speedcube.com.au/blogs/speedcubing-solutions/how-to-solve-a-4x4-rubiks-cube-complete-beginners-guide" rel="noopener" target="_blank">Reduction</a> method *(very slow!)* for 4x4.
+- 🧩 **Casual Rubik's Cube solving**: I mainly use the [CFOP](https://www.speedcube.com.au/pages/cfop-3x3-rubiks-cube-algorithms) method for 3x3 and the [Reduction](https://www.speedcube.com.au/blogs/speedcubing-solutions/how-to-solve-a-4x4-rubiks-cube-complete-beginners-guide) method *(very slow!)* for 4x4.
 - ♟️ **Playing chess**: I love exploring different openings and sharpening my tactical skills.
 - 🏐 **Playing volleyball**: Whether it's a casual game or a more competitive match, I'm always up for it.
 
