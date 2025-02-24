@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2000">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+        <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 20px; background: #0a0a0a; border-radius: 15px; color: #5b8dfd; box-shadow: 0 2px 15px rgba(0, 0, 0, 0.7); border: 2px solid #8c52ff;">
+            <h2 style="margin: 0; animation: textReveal 1.5s ease-in-out; text-shadow: 0 0 15px #8c52ff;">🎮 こんにちは！ <span style="color: #8c52ff;">アイヴァン</span> です。</h2>
+            <details style="margin-top: 15px; cursor: pointer;">
+            <summary style="font-weight: bold; font-size: 1.2em; color: #8c52ff; transition: color 0.3s ease;">🌌 <i>See English Translation</i> 🌌</summary>
+            <p style="margin-top: 10px; background: #16192c; padding: 15px; border-radius: 10px; color: #5b8dfd; box-shadow: 0 2px 10px rgba(140, 82, 255, 0.4); font-size: 1em; animation: textReveal 1s ease-in-out;">Hi! I'm Ivan. ⚔️</p>
+            </details>
+        </div>
+        <!-- About Me -->
+        <div style="display: flex; align-items: flex-start; margin-top: 20px;">
+            <div style="flex: 1; line-height: 1.6;">
+            <p style="margin-bottom: 15px; text-align: justify;">
+                I am a fourth-year Computer Science student at 
+                <a href="https://upd.edu.ph/" target="_blank" style="color: #8c52ff; text-decoration: none;">UP Diliman</a>, 
+                focused on <strong>backend development</strong>, with expertise in API architecture, database design, server-side optimization, and robust security frameworks for authentication, authorization, and access control. I'm also expanding into frontend integration for seamless web app functionality.
+            </p>
+            <p style="margin-bottom: 15px; text-align: justify;">
+                I enjoy anime, manga, and gaming. I'm particularly into <strong>MMORPGs</strong>, world-building, and automation systems in 
+                <a href="https://www.minecraft.net/en-us" target="_blank" style="color: #8c52ff; text-decoration: none;">Minecraft</a>, 
+                <a href="https://terraria.org/" target="_blank" style="color: #8c52ff; text-decoration: none;">Terraria</a>, and 
+                <a href="https://www.factorio.com/" target="_blank" style="color: #8c52ff; text-decoration: none;">Factorio</a>. Occasionally, I dive into FPS games like 
+                <a href="https://playvalorant.com/en-sg/" target="_blank" style="color: #8c52ff; text-decoration: none;">Valorant</a>.
+            </p>
+            <div align="center">
+                <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZenoxisIV&theme=tokyonight-duo&mode=weekly" alt="GitHub Streak" /></a>
+            </div>
+            </div>
+            <img src="images/hollow-knight.png" alt="Profile Image" style="width: 37%; margin-left: 20px; border-radius: 10px;">
+        </div>
+        <!-- Tech Stack -->
+        <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 20px; background: #0a0a0a; border-radius: 15px; color: #5b8dfd; box-shadow: 0 2px 15px rgba(0, 0, 0, 0.7); border: 2px solid #8c52ff; margin-top: 20px;">
+            <h2 style="margin: 0; animation: textReveal 1.5s ease-in-out; text-shadow: 0 0 15px #8c52ff;">💻 Tech Stack</h2>
+            <details id="tech-tree" style="margin-top: 15px; cursor: pointer;">
+            <summary style="font-weight: bold; font-size: 1.2em; color: #8c52ff; transition: color 0.3s ease;">🔹 Show Tech Tree 🔹</summary>
+            <div class="tech-tree">
+                <div class="category"><div class="node root">Programming Languages</div><div class="branch"><div class="node">Python</div><div class="node">C</div><div class="node">C++</div></div></div>
+                <div class="category"><div class="node root">Web Technologies</div><div class="branch"><div class="node">JavaScript</div><div class="node">TypeScript</div><div class="node">HTML5</div><div class="node">CSS3</div><div class="node">PHP</div></div></div>
+                <div class="category"><div class="node root">Frameworks</div><div class="branch"><div class="node">Laravel</div><div class="node">Svelte</div><div class="node">Bootstrap</div><div class="node">Tailwind CSS</div></div></div>
+                <div class="category"><div class="node root">Databases & Server Management</div><div class="branch"><div class="node">MySQL</div><div class="node">PostgreSQL</div><div class="node">Apache</div><div class="node">Node.js</div></div></div>
+                <div class="category"><div class="node root">Toolkits</div><div class="branch"><div class="node">Git</div><div class="node">Vite</div><div class="node">Playwright</div><div class="node">Locust</div></div></div>
+            </div>
+            </details>
+        </div>
+        </div>
+    </foreignObject>
+</svg>  
